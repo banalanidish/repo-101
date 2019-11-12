@@ -4,7 +4,7 @@
   <groupId>com.nidiTechie.NykaCartoons</groupId>
   <artifactId>trucks</artifactId>
   <packaging>war</packaging>
-  <version>1.117940-SNAPSHOT</version>
+  <version>1.117967740-SNAPSHOT</version>
   <name>trucks Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
